@@ -31,3 +31,10 @@
 </p>
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+![](https://streak-stats.demolab.com/?user=MdFahadHossain006&theme=dark&hide_border=false)<br/>
+
+[![](https://komarev.com/ghpvc/?username=MdFahadHossain006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MdFahadHossain006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
