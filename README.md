@@ -29,6 +29,13 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
+<p align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3500&pause=1200&color=00E7FF&center=true&vCenter=true&width=1000&height=70&lines=%F0%9F%91%8B+WELCOME+TO+MY+KINGDOM;I+AM+MD.+FAHAD+HOSSAIN;I+AM+A+SOFTWARE+DEVELOPER+%7C+WEB+DEVELOPER+CYBER+SECURITY+EXPART+%7C+PROGRAMMER;MY+LANGUAGES+ARE..;PYTHON+%7C+HTML5+%7C+CSS3+%7C+JAVASCRIPT+%7C+KALI+LINUX+%7C+NETHUNTER;I+BUILD+MODERN+AND+CREATIVE+PROJECTS+AND+SOFTWARE;IF+YOU+WANT+TO+MAKE+ANY+PROJECT+FOR+YOU+THEN+CONTRACT+WITH+ME+%F0%9F%9A%80" alt="Typing SVG" />
+  
+</p>  
+  
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
