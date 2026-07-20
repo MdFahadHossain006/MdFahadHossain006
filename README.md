@@ -1,6 +1,10 @@
+<div align="center">
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/ca65dd28-1977-4c69-a8f0-7f7a5e76278e" />
 
+
 ### 👋 I'M FAHAD . WELCOME TO MY KINGDOM 
+</div>
+
 <div align="center">
   
 ## <h3>MY CODE </h3>
