@@ -1,8 +1,12 @@
 <img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/ca65dd28-1977-4c69-a8f0-7f7a5e76278e" />
 
 ### 👋 I'M FAHAD . WELCOME TO MY KINGDOM 
+<div align="center">
+  
+## <h3>MY CODE </h3>
 
-<h3>MY CODE </h3>
+</div> 
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -39,6 +43,7 @@
 </p>  
   
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <p align="center">
